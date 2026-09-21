@@ -3,7 +3,7 @@
   <img alt="eziee" src="./eziee-wordmark-light.svg" height="72">
 </picture>
 
-### AI desk for DeFi
+### Crypto AI Desk
 
 Explore markets, swap assets, and manage positions across DeFi. You set the intent. Your wallet controls the action.
 
